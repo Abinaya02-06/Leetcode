@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abinaya02-06/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abinaya02-06/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Abinaya02-06/Leetcode/tree/master/1323-maximum-69-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Abinaya02-06/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
 | ------- |
