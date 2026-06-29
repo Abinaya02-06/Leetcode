@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abinaya02-06/Leetcode/tree/master/0002-add-two-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abinaya02-06/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
