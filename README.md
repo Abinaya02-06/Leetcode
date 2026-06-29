@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Abinaya02-06/Leetcode/tree/master/1323-maximum-69-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abinaya02-06/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abinaya02-06/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2235-add-two-integers](https://github.com/Abinaya02-06/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abinaya02-06/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Abinaya02-06/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abinaya02-06/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
