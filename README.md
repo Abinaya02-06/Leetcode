@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abinaya02-06/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Abinaya02-06/Leetcode/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Abinaya02-06/Leetcode/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abinaya02-06/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Abinaya02-06/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Abinaya02-06/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abinaya02-06/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abinaya02-06/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/Abinaya02-06/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
