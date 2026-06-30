@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abinaya02-06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abinaya02-06/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Abinaya02-06/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/Abinaya02-06/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abinaya02-06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/Abinaya02-06/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/Abinaya02-06/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Counting
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abinaya02-06/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3838-weighted-word-mapping](https://github.com/Abinaya02-06/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
