@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abinaya02-06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abinaya02-06/Leetcode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Abinaya02-06/Leetcode/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abinaya02-06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abinaya02-06/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -121,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abinaya02-06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
