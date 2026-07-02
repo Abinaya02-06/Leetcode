@@ -1,22 +1,27 @@
-class Solution {
-    public int longestOnes(int[] nums, int k) {
+class Solution
+ {
+    public int longestOnes(int[] nums, int k)
+    {
         int numsLength=nums.length;
-        int i =0,j=0,maxLen=0;
-        for(i=0;i<numsLength;i++)
+        int right =0,left=0,count=0,maxLen=0;
+        while(right<numsLength)
         {
-            int tempK=k;
-            for(j=i;j<numsLength;j++)
+            
+            if(nums[right]==0)
             {
-                if(nums[j]==0)
+                count++;
+                while(count>k)
                 {
-                    if(tempK==0)
+                     if(nums[left]==0)
                     {
-                        break;
+                        count--;
                     }
-                    tempK--;
+                    left++;
                 }
-                maxLen = Math.max(maxLen,j-i+1);
+            
             }
+            maxLen=Math.max(maxLen,right-left+1);
+            right++;
         }
         return maxLen;
     }
