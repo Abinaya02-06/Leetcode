@@ -10,7 +10,7 @@ class Solution
             if(nums[right]==0)
             {
                 count++;
-                while(count>k)
+                while(left<=right && count>k)
                 {
                      if(nums[left]==0)
                     {
