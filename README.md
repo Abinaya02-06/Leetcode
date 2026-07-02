@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Abinaya02-06/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abinaya02-06/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abinaya02-06/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Abinaya02-06/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/Abinaya02-06/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Abinaya02-06/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abinaya02-06/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Abinaya02-06/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abinaya02-06/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abinaya02-06/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abinaya02-06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abinaya02-06/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
