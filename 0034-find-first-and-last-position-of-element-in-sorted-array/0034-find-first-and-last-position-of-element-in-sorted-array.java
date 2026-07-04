@@ -1,28 +1,51 @@
-class Solution
- {
-    public int[] searchRange(int[] nums, int target)
-    {
-        int[] ans = new int[2];
-        int numsLength = nums.length;
-        int start = -1,end = -1,i;
-        for(i=0;i<numsLength;i++)
-        {
-            if(nums[i]==target)
-            {
-                start=i;
-                break;
+class Solution {
+
+    public int firstIndex(int[] nums, int target) {
+        int n = nums.length;
+        int low = 0, high = n - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            if (nums[mid] == target) {
+                if (mid == 0 || nums[mid - 1] != target) {
+                    return mid;
+                } else {
+                    high = mid - 1;
+                }
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
-        for(i=numsLength-1;i>=0;i--)
-        { 
-            if(nums[i]==target)
-                {
-                    end=i;
-                    break;
+        return -1;
+    }
+
+    public int lastIndex(int[] nums, int target) {
+        int n = nums.length;
+        int low = 0, high = n - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            if (nums[mid] == target) {
+                if (mid == n - 1 || nums[mid + 1] != target) {
+                    return mid;
+                } else {
+                    low = mid + 1;
                 }
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
         }
-        ans[0]=start;
-        ans[1]=end;
+        return -1;
+    }
+
+    public int[] searchRange(int[] nums, int target) {
+        int[] ans = new int[2];
+        ans[0] = firstIndex(nums, target);//log n
+        ans[1] = lastIndex(nums, target);//log n
         return ans;
     }
 }
