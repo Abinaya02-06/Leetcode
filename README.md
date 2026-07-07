@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Abinaya02-06/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
+| [0867-transpose-matrix](https://github.com/Abinaya02-06/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abinaya02-06/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Abinaya02-06/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Abinaya02-06/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Abinaya02-06/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abinaya02-06/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abinaya02-06/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Abinaya02-06/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Abinaya02-06/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Abinaya02-06/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abinaya02-06/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
