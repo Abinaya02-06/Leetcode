@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abinaya02-06/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abinaya02-06/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Abinaya02-06/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Abinaya02-06/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Abinaya02-06/Leetcode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abinaya02-06/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abinaya02-06/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abinaya02-06/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Abinaya02-06/Leetcode/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/Abinaya02-06/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/Abinaya02-06/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abinaya02-06/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -264,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
