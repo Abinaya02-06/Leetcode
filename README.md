@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abinaya02-06/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Abinaya02-06/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Abinaya02-06/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abinaya02-06/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Abinaya02-06/Leetcode/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
