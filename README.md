@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abinaya02-06/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Abinaya02-06/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abinaya02-06/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abinaya02-06/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abinaya02-06/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Abinaya02-06/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abinaya02-06/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abinaya02-06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abinaya02-06/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abinaya02-06/Leetcode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Abinaya02-06/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abinaya02-06/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
