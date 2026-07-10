@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinaya02-06/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Abinaya02-06/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
 | ------- |
@@ -294,10 +295,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abinaya02-06/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Abinaya02-06/Leetcode/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abinaya02-06/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
