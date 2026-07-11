@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abinaya02-06/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Abinaya02-06/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Abinaya02-06/Leetcode/tree/master/0704-binary-search) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abinaya02-06/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Abinaya02-06/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abinaya02-06/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Abinaya02-06/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Abinaya02-06/Leetcode/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Abinaya02-06/Leetcode/tree/master/0706-design-hashmap) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinaya02-06/Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Abinaya02-06/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abinaya02-06/Leetcode/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
@@ -311,5 +314,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abinaya02-06/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Abinaya02-06/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
