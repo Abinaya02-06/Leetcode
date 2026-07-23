@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya02-06/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abinaya02-06/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Abinaya02-06/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Abinaya02-06/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya02-06/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abinaya02-06/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Abinaya02-06/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Abinaya02-06/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3668-restore-finishing-order](https://github.com/Abinaya02-06/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Abinaya02-06/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Abinaya02-06/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abinaya02-06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abinaya02-06/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Abinaya02-06/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Abinaya02-06/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sliding Window
 |  |
 | ------- |
